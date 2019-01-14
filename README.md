@@ -11,7 +11,7 @@ A working browser.
 HTML CSS BOOTSTRAP JAVASCRIPT
 
 # Support and contact details
-https://github.com/Alchemy17?tab=repositories
+https://github.com/Uwerajojo/pig-dice-game
 
 # License
 MIT Copyright (c) 2018# pigdice
